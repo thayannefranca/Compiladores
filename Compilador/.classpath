@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="SampleMiniJavaPrograms/" kind="src" path="cse401_starter_code/SamplePrograms"/>
+	<classpathentry kind="src" path="cse401_starter_code/SamplePrograms/SampleMiniJavaPrograms"/>
+	<classpathentry kind="src" path="cse401_starter_code/src"/>
+	<classpathentry kind="lib" path="cse401_starter_code/lib/CUP.jar"/>
+	<classpathentry kind="lib" path="cse401_starter_code/lib/JFlex.jar"/>
+	<classpathentry kind="output" path="cse401_starter_code/build/classes"/>
+</classpath>
